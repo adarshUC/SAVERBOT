@@ -2,7 +2,7 @@
   <b>Save restricted content Bot</b>
 </h1> 
 
-Contact: [Telegram](https://t.me/MaheshChauhan)
+Contact: [Telegram](https://t.me/jaadugarxd)
 
 A stable telegram bot to get restricted messages with custom thumbnail support , made by Mahesh Chauhan. 
 
@@ -50,14 +50,14 @@ sudo docker-compose up --build
 
 The hard Way:
 
-- Fill vars in your fork in [this](https://github.com/vasusen-code/SaveRestrictedContentBot/blob/master/main/__init__.py) file as shown in this [picture](https://t.me/MaheshChauhan/36)
+- Fill vars in your fork in [this](https://github.com/adarshuc/saverbot/blob/master/main/__init__.py) file.
 - enter all the below commands
 
 ```
 sudo apt update
 sudo apt install ffmpeg git python3-pip
 git clone your_repo_link
-cd saverestrictedcontentbot 
+cd saverbot 
 pip3 install -r requirements.txt
 python3 -m main
 ```
